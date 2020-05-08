@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="crowdfunding-admin-webui:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="518d5f1f-acb0-4e06-a535-63e52c9980ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="project_crowd@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="project_crowd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="project_crowd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="project_crowd: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z7hcERQwnzPZdBOKXKy4Uqry4V" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/crowdfunding-admin-webui/src/main/webapp/WEB-INF" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Git\IdeaProjects\crowdfunding\crowdfunding-admin-parent\crowdfunding-admin-webui\src\main\webapp\WEB-INF" />
+      <recent name="E:\Git\IdeaProjects\crowdfunding\crowdfunding-admin-parent\crowdfunding-admin-entity\src\main\java\com\wlk\crowd\entity" />
+      <recent name="E:\Git\IdeaProjects\crowdfunding\crowdfunding-admin-parent\crowdfunding-admin-webui\src\main\webapp\css" />
+      <recent name="E:\Git\IdeaProjects\crowdfunding\crowdfunding-admin-parent\crowdfunding-admin-webui\src\main\webapp" />
+      <recent name="E:\Git\IdeaProjects\crowdfunding\crowdfunding-admin-parent\crowdfunding-admin-webui\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Git\IdeaProjects\crowdfunding\crowdfunding-admin-parent\crowdfunding-admin-webui\src\main\resources\mybatis\mapper" />
+      <recent name="E:\Git\IdeaProjects\crowdfunding\crowdfunding-admin-parent\crowdfunding-admin-component\src\main\java\com\wlk\crowd\mapper" />
+      <recent name="E:\Git\IdeaProjects\crowdfunding\crowdfunding-admin-parent\crowdfunding-admin-webui\src\main\webapp\jquery" />
+      <recent name="E:\Git\IdeaProjects\crowdfunding\crowdfunding-admin-parent\crowdfunding-admin-webui\src\main\webapp\script" />
+      <recent name="E:\Git\IdeaProjects\crowdfunding\crowdfunding-admin-parent\crowdfunding-admin-webui\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.99">
+    <configuration name="CrowdTest.testAdmin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding-admin-webui" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CrowdTest" />
+      <option name="METHOD_NAME" value="testAdmin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdTest.testAdminService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding-admin-webui" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CrowdTest" />
+      <option name="METHOD_NAME" value="testAdminService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdTest.testBCryptPasswordEncoder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding-admin-webui" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CrowdTest" />
+      <option name="METHOD_NAME" value="testBCryptPasswordEncoder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdTest.testPageHelper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding-admin-webui" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CrowdTest" />
+      <option name="METHOD_NAME" value="testPageHelper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding-admin-webui" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.99" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.99" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="crowdfunding-admin-webui:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/crowdfunding" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_crowdfunding-admin-parent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="7903" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="crowdfunding-admin-webui:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CrowdTest.testAdmin" />
+      <item itemvalue="JUnit.CrowdTest.testAdminService" />
+      <item itemvalue="JUnit.StringTest.test" />
+      <item itemvalue="JUnit.CrowdTest.testPageHelper" />
+      <item itemvalue="JUnit.CrowdTest.testBCryptPasswordEncoder" />
+      <item itemvalue="Tomcat Server.Tomcat 7.0.99" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CrowdTest.testBCryptPasswordEncoder" />
+        <item itemvalue="JUnit.CrowdTest.testPageHelper" />
+        <item itemvalue="JUnit.StringTest.test" />
+        <item itemvalue="JUnit.CrowdTest.testAdminService" />
+        <item itemvalue="JUnit.CrowdTest.testAdmin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.025787966" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showFiles" value="false" />
+    <option name="showImplicitBeans" value="false" />
+    <option name="showDoc" value="false" />
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SpringMvcView">
+    <option name="showControllers" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="518d5f1f-acb0-4e06-a535-63e52c9980ba" name="Default Changelist" comment="" />
+      <created>1584196116797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584196116797</updated>
+      <workItem from="1584196120024" duration="720000" />
+      <workItem from="1584256244073" duration="15573000" />
+      <workItem from="1584275237683" duration="11491000" />
+      <workItem from="1584341159231" duration="3107000" />
+      <workItem from="1584344296077" duration="3890000" />
+      <workItem from="1584348218741" duration="218000" />
+      <workItem from="1584348447172" duration="14984000" />
+      <workItem from="1584429805020" duration="18389000" />
+      <workItem from="1584517603320" duration="17966000" />
+      <workItem from="1584609534464" duration="11000" />
+      <workItem from="1584881887513" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="236" key="#BuildArtifactsBeforeRunChooser" timestamp="1584343551715">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="772" y="236" key="#BuildArtifactsBeforeRunChooser/0.0.1536.834@0.0.1536.834" timestamp="1584343551715" />
+    <state x="722" y="79" key="#Project_Structure" timestamp="1584544397932">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="722" y="79" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1584544397932" />
+    <state x="447" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584439838937">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1584439838937" />
+    <state x="861" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584257083317">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="861" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1584257083317" />
+    <state x="734" y="138" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1584267657076">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="734" y="138" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1536.834@0.0.1536.834" timestamp="1584267657076" />
+    <state x="958" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1584526213773">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="958" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1584526213773" />
+    <state x="879" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584522252675">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="879" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584522252675" />
+    <state x="958" y="161" key="FileChooserDialogImpl" timestamp="1584523192713">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="958" y="161" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1584523192713" />
+    <state width="723" height="367" key="GridCell.Tab.0.bottom" timestamp="1584544734042">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="367" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584544734042" />
+    <state width="723" height="367" key="GridCell.Tab.0.center" timestamp="1584544734042">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="367" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584544734042" />
+    <state width="723" height="367" key="GridCell.Tab.0.left" timestamp="1584544734042">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="367" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584544734042" />
+    <state width="723" height="367" key="GridCell.Tab.0.right" timestamp="1584544734042">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="367" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584544734042" />
+    <state width="675" height="236" key="GridCell.Tab.1.bottom" timestamp="1584544734040">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="675" height="236" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584544734040" />
+    <state width="675" height="236" key="GridCell.Tab.1.center" timestamp="1584544734039">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="675" height="236" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1584544734039" />
+    <state width="675" height="236" key="GridCell.Tab.1.left" timestamp="1584544734039">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="675" height="236" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1584544734039" />
+    <state width="675" height="236" key="GridCell.Tab.1.right" timestamp="1584544734039">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="675" height="236" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1584544734039" />
+    <state width="675" height="236" key="GridCell.Tab.2.bottom" timestamp="1584544734039">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="675" height="236" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584544734039" />
+    <state width="675" height="236" key="GridCell.Tab.2.center" timestamp="1584544734039">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="675" height="236" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1584544734039" />
+    <state width="675" height="236" key="GridCell.Tab.2.left" timestamp="1584544734039">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="675" height="236" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1584544734039" />
+    <state width="675" height="236" key="GridCell.Tab.2.right" timestamp="1584544734039">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="675" height="236" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1584544734039" />
+    <state width="1312" height="265" key="GridCell.Tab.3.bottom" timestamp="1584350435858">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1312" height="265" key="GridCell.Tab.3.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584350435858" />
+    <state width="1312" height="265" key="GridCell.Tab.3.center" timestamp="1584350435858">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1312" height="265" key="GridCell.Tab.3.center/0.0.1536.834@0.0.1536.834" timestamp="1584350435858" />
+    <state width="1312" height="265" key="GridCell.Tab.3.left" timestamp="1584350435858">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1312" height="265" key="GridCell.Tab.3.left/0.0.1536.834@0.0.1536.834" timestamp="1584350435858" />
+    <state width="1312" height="265" key="GridCell.Tab.3.right" timestamp="1584350435858">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1312" height="265" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1584350435858" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1584432278568">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584432278568" />
+    <state x="766" y="149" width="770" height="542" key="find.popup" timestamp="1584541959588">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="766" y="149" width="770" height="542" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1584541959588" />
+    <state x="356" y="110" key="new project wizard" timestamp="1584196692222">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="356" y="110" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1584196692222" />
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1584542102198">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1584542102198" />
+    <state x="562" y="103" key="spring file set editor" timestamp="1584261171277">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="562" y="103" key="spring file set editor/0.0.1536.834@0.0.1536.834" timestamp="1584261171277" />
+  </component>
+</project>
